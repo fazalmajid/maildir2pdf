@@ -1,6 +1,6 @@
 # maildir2pdf
 
-A Go command-line tool that scans Maildir directories for emails with PDF attachments and extracts them to the current working directory.
+A Go command-line tool that scans Maildir directories for emails with PDF attachments and extracts them to the current working directory. This is useful for importing PDFs from email into an electronic document management system like Paperless-ngx.
 
 ## Features
 
